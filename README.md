@@ -1,0 +1,1 @@
+Light toggle switch.
